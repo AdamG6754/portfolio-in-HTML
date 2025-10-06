@@ -35,6 +35,7 @@ main {
     border-left: 1px dashed rgb(72, 52, 160);
     border-right: 1px dashed rgb(72, 52, 160);
     background-color: rgb(132, 221, 99);
+    max-width: 1150px;
 }
 
 main p,

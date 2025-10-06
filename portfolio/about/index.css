@@ -17,6 +17,7 @@ main {
     border-left: 1px dashed rgb(72, 52, 160);
     border-right: 1px dashed rgb(72, 52, 160);
     background-color: rgb(132, 221, 99);
+    max-width: 1150px;
 }
 
 h1 {
@@ -41,4 +42,10 @@ h1 {
 
 #here {
     color: rgb(32, 67, 255);
+}
+
+#pic {
+    width: 30%;
+    height: auto;
+    float: right;
 }
