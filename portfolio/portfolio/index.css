@@ -1,0 +1,55 @@
+* {
+    background-color: rgb(194, 230, 163)
+}
+
+header {
+    border-bottom: 2px solid rgb(72, 52, 160);
+    text-align: center;
+}
+
+.top {
+    background-color: rgb(132, 221, 99);
+    font-size: 3em;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: rgb(72, 52, 160);
+}
+
+#here {
+    color: rgb(32, 67, 255);
+}
+
+#work {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 100%;
+}
+
+.title {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: rgb(72, 52, 160);
+    background-color: rgb(132, 221, 99);
+    text-align: center;
+}
+
+#mine {
+    color: rgb(72, 52, 160);
+    text-decoration: none;
+    background-color: rgb(132, 221, 99);
+}
+
+.log {
+    background-color: rgb(132, 221, 99);
+    margin-top: 2em;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%
+}
+
+#sz {
+    max-width: 730px;
+    max-height: auto;
+}
